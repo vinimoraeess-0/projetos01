@@ -73,3 +73,12 @@ body{
 h1{
     text-align: center;
 }
+#conteudo2{
+    height: 300px;
+    width: 800px;
+    background-color: lightgrey;
+    float: left;
+    margin-left: 340px;
+    margin-top: 10px;
+    text-align: center;
+}
